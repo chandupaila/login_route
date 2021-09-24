@@ -1,0 +1,33 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+
+.nav-image {
+  width: 180px;
+  height: 50px;
+}
+
+.unOrder {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.list {
+  margin-right: 20px;
+  font-weight: 500;
+  font-family: roboto;
+  text-decoration: none;
+}
+
+.button {
+  background-color: #0b69ff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 10px 15px;
+}
